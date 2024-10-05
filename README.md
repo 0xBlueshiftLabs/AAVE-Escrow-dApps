@@ -55,7 +55,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/ChainShot-AAVE-Escrows](https://github.com/Elisik/ChainShot-AAVE-Escrows)
+Project Link: [https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Escrows](https://github.com/0xBlueshiftLabs/ChainShot-AAVE-Escrows)
 
 
 
